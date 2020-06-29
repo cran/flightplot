@@ -1,0 +1,16 @@
+0f6c7defdff15a633c0494294f585c1e *DESCRIPTION
+1ebbd3e34237af26da5dc08a4e440464 *LICENSE
+7927bd9b1378f0ec8078cc94851ebed7 *NAMESPACE
+0eb0b001eb7bad03160e0508d9ab371c *R/data.R
+19816a42329f4d85949365d476d9d9b9 *R/globals.R
+24b0cfac7bdfbc2f88c2b4337aafaaee *R/helpers.R
+30c90cc0f103d2b5cc7b7cfb37969483 *R/main.R
+4866e85b777b9a4518307cd3811a6ad8 *data/airports.rda
+7eb9145f112e7110b816bfdc06b0fdc3 *data/sample_trips.rda
+df1100e355720c41e30be4e788a63716 *data/world.rda
+5ebdd03437d09c7fd34de8dcf71b4990 *man/airports.Rd
+284a820a3a9d21e8adf00cb482b974ee *man/arrange_path.Rd
+01697671c7f8471f2bf45aa3c3c17dfa *man/get_map_border.Rd
+87314dc98fa376a34cb9bb6be891e110 *man/plot_flights.Rd
+b6ebc6880e33046c4230e212953078f4 *man/sample_trips.Rd
+bb9bdebe43d42f706634c71218ebfa43 *man/world.Rd
